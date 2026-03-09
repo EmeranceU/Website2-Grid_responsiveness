@@ -29,8 +29,9 @@ body{
     display: block;
     text-align: center;
     overflow: hidden;
-
-    
+    position: fixed;
+    width: 100%;
+    z-index: 50;
 }
 .top-nav a{
     color: white;
