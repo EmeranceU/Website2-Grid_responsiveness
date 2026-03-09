@@ -25,7 +25,7 @@ body{
 
 .top-nav{
     background-color: black;
-    padding: 0;
+    padding: 10px 0px;
     display: block;
     text-align: center;
     overflow: hidden;
@@ -50,7 +50,8 @@ body{
 .top-nav a.active{
     background-color: #04AA6D;
     color: white;
-    padding: 14px 16px;
+    padding: 24px 16px;
+    margin: -10px 0;
 }
 .top-nav a.icon{
     display: none;
